@@ -5,7 +5,7 @@
 /build/kube-scheduler
 
 # used for the code generators only
-/vendor/
+# /vendor/
 
 # macOS
 .DS_Store
